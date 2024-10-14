@@ -1,7 +1,1 @@
-//
-//  README.md
-//  WeSplit
-//
-//  Created by André Sortland on 14/10/2024.
-//
-
+This is a simple project to get my head around how SwiftUI works.
